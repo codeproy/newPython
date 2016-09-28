@@ -1,0 +1,4 @@
+10 A OLD
+10 A NEW
+20 B NEW
+20 B SHR
