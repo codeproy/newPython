@@ -12,6 +12,8 @@ def max_num(inp_arr):
                   else:
                       count_elem = 0
         return(max_elem)
+
+# added a comment 
 		
 inp_arr = input("Enter the number")
 print(max_num(inp_arr))
