@@ -10,7 +10,7 @@ class Calc:
 ## div
     def div(n1,n2):
         return n1/n2
-
+## just trying to have some fun
 ## mult
     def div(n1,n2):
         return n1 * n2

@@ -1,5 +1,6 @@
 import os
 import shutil
+## partha added comments
 src = r'E:\Python'
 dst = r'C:\Users\partha\Documents\newPython'
 fnames = os.listdir(src)
