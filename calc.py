@@ -8,7 +8,7 @@ class Calc:
         return n1 + n2
 
 ## div
-    def div(n1,n2):
+    def divm(n1,n2):
         return n1/n2
 ## just trying to have some fun
 ## mult
